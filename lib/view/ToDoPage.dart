@@ -66,7 +66,9 @@ class _ToDoPageState extends State<ToDoPage> {
               Navigator.push(
                   context,
                   MaterialPageRoute(
-                      builder: (context) => const ShoppingMemoPage()));
+                      builder: (context) => const ShoppingMemoPage()
+                  )
+              );
             },
           )
         ],
