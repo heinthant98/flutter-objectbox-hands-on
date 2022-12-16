@@ -26,9 +26,33 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "2:3095272169647020119",
+      "lastPropertyId": "3:4269557832574259765",
+      "name": "ToDo",
+      "properties": [
+        {
+          "id": "1:428592798965882508",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:8809528482573730974",
+          "name": "todo",
+          "type": 9
+        },
+        {
+          "id": "3:4269557832574259765",
+          "name": "check",
+          "type": 1
+        }
+      ],
+      "relations": []
     }
   ],
-  "lastEntityId": "1:6675070774239226741",
+  "lastEntityId": "2:3095272169647020119",
   "lastIndexId": "0:0",
   "lastRelationId": "0:0",
   "lastSequenceId": "0:0",
